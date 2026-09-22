@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Display Project</title>
+</head>
+<body>
+  <main>
+    <h1>Learning About Web Development</h1>
+    <p>Here are some interesting videos and tutorials related to modern web development technologies.</p>
+    
+    <section>
+      <h2>First Video Tutorial</h2>
+      <p>This video covers the fundamentals and basics of the topic.</p>
+      <iframe src="https://www.youtube.com/embed/I0_951_MPE0" title="First Video" height="315" width="560"></iframe>
+    </section>
+
+    <section>
+      <h2>Second Video Tutorial</h2>
+      <p>This video dives deeper into advanced concepts and techniques.</p>
+      <iframe src="https://www.youtube.com/embed/I0_951_MPE0" title="Second Video" height="315" width="560"></iframe>
+    </section>
+
+    <section>
+      <h2>Third Video Tutorial</h2>
+      <p>This video provides practical examples and use cases.</p>
+      <iframe src="https://www.youtube.com/embed/I0_951_MPE0" title="Third Video" height="315" width="560"></iframe>
+    </section>
+  </main>
+</body>
+</html>
